@@ -1,5 +1,5 @@
 %% Machine Learning Online Class - Exercise 2: Logistic Regression
-%
+%  Suruchi Fialoke
 %  Instructions
 %  ------------
 % 
